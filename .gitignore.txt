@@ -1,0 +1,43 @@
+# Maven
+/target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.log
+*.lock
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbproject/jax-ws/
+/nbproject/generated-sources/
+/nbproject/project.properties
+/nbproject/build-impl.xml
+
+# IDE Specific
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# misc
+*.swp
